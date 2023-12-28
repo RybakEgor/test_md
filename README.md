@@ -65,7 +65,7 @@
                                 - Назначение переменной для переименовывания файлов выгрузки на "_UserRestored"
                     - При отсутсвии пользователя в AD: 
                         - Блок создания новой учётной записи: 
-                            - [Get-AD-Login-From-Full_Name](#get-ad-login-from-full_Name)
+                            - [Функция создания логина из ФИО - Get-AD-Login-From-Full_Name](#get-ad-login-from-full_Name)
                             - Функция создания пользователя - Create-User-AD
                             - Функция создания и проверки домашней папки пользователя - Test-Profile-Folder
                             - Функция изменения прав учётной записи - Remove-Add-user-from-AD-groups
